@@ -1,9 +1,7 @@
 Mars looks red from a distance!
-<<<<<<< HEAD
 I removed most of this content
 The Flyers still suck
-=======
 An it does not have any canals.
 I made this change on the remote
->>>>>>> 1eaed26d33bdad105f27e8d84959434d3abe5518
+
 
